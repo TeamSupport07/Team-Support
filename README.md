@@ -32,5 +32,6 @@ Libraries and Dependencies: Python Libraries been used i.e. MatplotLib,Seaborn,S
 Dependencies:              Visual Studio Code,
                            Goggle Collab
 
-Link Of Overview : 
+Link Of Overview : https://drive.google.com/drive/folders/1_XfpqYgtMhOyYjz0u0M3z6QPz-E0h8jA?usp=drive_link
+                   https://www.youtube.com/playlist?list=PL0xHs24DAqnMhDn2Enl2RXEjKwsytvd1G
 
