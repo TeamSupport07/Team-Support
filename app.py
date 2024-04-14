@@ -22,7 +22,7 @@ class_labels = {
 }
 
 # Load the model
-model_path = 'models/imageclassifier.h5'  # Assuming the model is in 'models' directory
+model_path = 'models/imageclassifier (4).h5'  # Assuming the model is in 'models' directory
 model = load_image_classifier(model_path)
 
 # Route handler for the root URL
