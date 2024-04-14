@@ -4,8 +4,8 @@
 }
 h1{
     text-align: center;
-    color: red;
-    text-decoration: black underline;
+    color: rgb(58,80,107);
+    text-decoration: bisque;
 }
 
 form{
@@ -13,7 +13,7 @@ form{
 }
 
 label{
-    color: blue;
+    color:black;
     font-weight: bold;
     line-height: 1.5cm;
 }
