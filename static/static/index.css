@@ -1,0 +1,36 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(182, 224, 224);
+}
+h1{
+    text-align: center;
+    color: rgb(58,80,107);
+    text-decoration: bisque;
+}
+
+form{
+    text-align: center;
+}
+
+label{
+    color:black;
+    font-weight: bold;
+    line-height: 1.5cm;
+}
+
+input{
+    text-align: right;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-weight: bold;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
