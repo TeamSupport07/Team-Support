@@ -1,0 +1,15 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(252, 221, 227);
+}
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: black underline;
+} 
+
+p {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
