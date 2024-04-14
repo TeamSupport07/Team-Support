@@ -1,20 +1,31 @@
-# Team-Support
-Byte Verse Hackathon 2024
+#Team Support
+Byte-Verse Hackathon 2024 Annual Hackathon of NIT Patna
 
-The Core Idea and the Objective of the Project :
+About our Team ("Support") : Our team comprises of 4 members as follows:
+Leaded by Pranav Avinash Kshirsagar 
+Team members: Laukik Kande 
+Tejas Bhangale
+Tanishq Tiwari
+We are Enthusiast in technical fields and have developed certain skills for working and providing our best in technological fields
 
-The core idea of the project is to enable the users to check their Xrays and identify whether they are suffering from any disease, we have specifically implied upon 2 specific diseases i.e. Pneumonia and Brain Tumors the user simply needs to upload their X-ray on our created website or an app, after uploading the Xray by clicking on the predict tab the user will get whether he is normal or suffering from any disease, we have created 2 predictive models for predicting disease of brain tumor and pneumonia at the backend and at the frontend, we have a website where the user will upload its Xray.
+Themes and Tracks: We have selected the theme of  "HEALTH CARE AND MEDICAL" , tracks we have used are Web Development, App development, Artificial Intelligence.
 
-Main Objectives: 1. Provide Convenience to the user to identify whether they are suffering from any disease or not, at their ease.
+Title: HEALTH CARE AND MEDICAL
 
+Description: Heath care and medical are some of the essential need of a human being, if an human is alive health care and medical is required for an human. Some peoples are afraid of visiting a medical for their checkups and some are worried about were they checked properly for their symptoms and given right advices for the same. Therefore, we have created certain models which would predict whether a person is suffering from a disease or checking that they have been checked properly. Where the user needs to simply visit our website or an app where they have to upload their Xray of theirs, specifically we have made models for predicting whether the person is suffering from Pneumonia or is normal due to certain chest pains user is worried about the user would have to provide Xrays of their chest and check whether they are suffering or not or if a person is having a severe head pain another model is been created which would predict whether the user is suffering from brain tumor or not, user can refer to our website or app to check their details, to get the right medication if they are needed for the same.
 
-Current Functionality and Features Implemented: Currently we have successfully been able to complete our Pneumonia Predictive Model and a website has been under process for the same and as well and simple app is been made that will predict the disease as well as a brain tumor predictive model is under process.
+Tech Stacks Used:  Web Development- HTML,CSS,JAVA SCRIPT
+                   Artificial Intelligence and Machine Learning Using Python Programming Language and its libraries
 
-Technologies and tools have been used are: We have used Google Collab and Jupyter Notebook for making the predictive models as well using HTML, CSS, and Java script for creating and website and tools like ChatGPT for certain help in case of errors as well Visual Studio code for making a general app for predicting the X-ray results.
+Installation Steps: 1. Download all modules and python libraries i.e. MatplotLib,Seaborn,Scikit-learn,TensorFlow,Keras,Gradio,os,cv2,pandas
+                    2. By running the following code provided using 
 
-We have accomplished making a predictive model of Pneumonia disease and Brain tumor Predictive model under process, created a website for the same which the user can visit to check their disease, and an app for their convenience.
-
-Our future plans and goals to implement the website globally and the app successfully and as well completing the task of the brain tumor predicting model and uploading it to the website.
+Libraries and Dependencies: Python Libraries been used i.e. MatplotLib,Seaborn,Scikit-learn,TensorFlow,Keras,Gradio,os,cv2,pandas
+                            HTML: Hyper Text Markup Language
+                            Css: Cascading Style Sheet
+                            Java Script
+                            Dependencies: Visual Studio Code
+                                          Goggle Collab
 
 
 
